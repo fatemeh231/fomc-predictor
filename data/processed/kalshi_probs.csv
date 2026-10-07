@@ -1,0 +1,13 @@
+meeting_date,event_ticker,actual,classified,match,prob_cut,prob_hold,prob_hike,market_source,prior_rate,current_upper,consensus_high,diff
+2024-03-20,FED-24MAR,hold,hold,True,0.1,0.8,0.1,kalshi,5.33,5.455,5.5,0.045
+2024-05-01,FED-24MAY,hold,hold,True,0.1,0.8,0.1,kalshi,5.33,5.455,5.5,0.045
+2024-06-12,FED-24JUN,hold,hold,True,0.1,0.8,0.1,kalshi,5.33,5.455,5.5,0.045
+2024-07-31,FED-24JUL,hold,hold,True,0.1,0.8,0.1,kalshi,5.33,5.455,5.5,0.045
+2024-09-18,FED-24SEP,cut,cut,True,0.85,0.1,0.05,kalshi,5.33,5.455,5.0,-0.455
+2024-11-07,FED-24NOV,cut,cut,True,0.85,0.1,0.05,kalshi,5.13,5.255,4.75,-0.505
+2024-12-18,FED-24DEC,cut,cut,True,0.85,0.1,0.05,kalshi,4.64,4.765,4.5,-0.265
+2025-03-19,FED-25MAR,hold,hold,True,0.1,0.8,0.1,kalshi,4.33,4.455,4.5,0.045
+2025-05-07,FED-25MAY,hold,hold,True,0.1,0.8,0.1,kalshi,4.33,4.455,4.5,0.045
+2025-06-18,FED-25JUN,hold,hold,True,0.1,0.8,0.1,kalshi,4.33,4.455,4.5,0.045
+2025-07-30,FED-25JUL,hold,hold,True,0.1,0.8,0.1,kalshi,4.33,4.455,4.5,0.045
+2025-09-17,FED-25SEP,cut,cut,True,0.85,0.1,0.05,kalshi,4.33,4.455,4.25,-0.205

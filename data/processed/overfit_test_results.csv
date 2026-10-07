@@ -1,0 +1,4 @@
+split,train_size,test_size,rf_accuracy,dt_accuracy
+80/19,33,9,0.7778,1.0
+70/30,29,13,0.9231,1.0
+60/40,25,17,0.5882,0.5882
